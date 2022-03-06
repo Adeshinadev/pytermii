@@ -16,7 +16,7 @@ setup(
     author_email="adeshnex4u@gmail.com",
     url="https://github.com/Adeshinadev/pytermii",
     license="Public Domain",
-    version="0.0.2",
+    version="0.0.3",
     keywords=["Termii", "Termii Api", 'python termii', 'Termii python'],
     packages=find_packages(),
     platforms=["any"],

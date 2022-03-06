@@ -31,10 +31,10 @@ from pytermii.termii import Termii
 termii = Termii('your_api_key')
 
 # Retrieve the status of all registered sender ID.
-sender_ids=termii.sender_id.fetch()
+termii.sender_id.fetch()
 
 # Tournaments, matches, and participants are all represented as normal Python dicts.
-print(print(termii.sender_id.fetch()['data'][0]['sender_id'])) # ACME Key
+print(ptermii.sender_id.fetch()['data'][0]['sender_id'])# ACME Key
 print(termii.sender_id.fetch()['data'][0]['status']) # unblock
 
 # Request registration of sender ID and print the request code 
