@@ -5,7 +5,7 @@ from pytermii.sender_id import sender_id
 from pytermii.message import Message
 from pytermii.number import NumberMessage
 from pytermii.template import Templates
-from pytermii.token import Token
+from pytermii.token_termii import Token
 
 base_url = 'https://api.ng.termii.com/api'
 
