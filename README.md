@@ -1,6 +1,5 @@
 # Pytermii
 
-[![image](https://img.shields.io/travis/ZEDGR/pychal.svg)](https://travis-ci.org/ZEDGR/pychal)
 
 Pytermii provides python bindings for the [TERMII API](https://developers.termii.com/).
 The pytermii module was created by [Aina Adeshina](https://github.com/adeshinadev)
